@@ -2,7 +2,7 @@
 
 An *experimental* golang client for NSOT (http://github.com/dropbox/nsot)
 
-# Example
+## Example
 ```
 	import (
         "fmt"
@@ -22,11 +22,15 @@ An *experimental* golang client for NSOT (http://github.com/dropbox/nsot)
 		fmt.Println(site)
 	}
 ```
-# Installing
+## Installing
 
 	Use ``` go get ``` after importing in your program.
 
+## Reference
+	See [the godoc](http://www.godoc.org/github.com/sarguru/go-nsot-api)
+
 # Supported Features
+
 ## Sites
 	* Create
 	* Update
