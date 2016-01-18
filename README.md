@@ -49,7 +49,7 @@ An *experimental* golang client for NSOT (http://github.com/dropbox/nsot)
 my best to respond to reported issues as soon as I could and respond to pull requests. Patches/Suggestions are
 always welcome !
 
-	Please feel free to contact me via GH issues or Twitter or irc (sarguru__ in freenode) if you've any issues
+	Please feel free to contact me via GH issues or Twitter or irc (sarguru_ in freenode) if you've any issues
 with the code or have any suggestions or patches!
 
 # Copyright
